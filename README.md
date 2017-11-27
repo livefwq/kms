@@ -9,6 +9,8 @@ yum install git
 git clone https://github.com/livefwq/kms.git
 进入binaries 文件夹
 cd kms/binaries
+
+
 选择你系统需要的版本（以centos为例子intel cpu为例子 64位系统）
 cd Linux/intel/glibc/
 chmod 777 vlmcsd-x64-glibc
